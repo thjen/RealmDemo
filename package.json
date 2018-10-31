@@ -1,0 +1,19 @@
+{
+  "name": "realm",
+  "version": "0.0.1",
+  "description": "demo realm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thjen developer",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.5",
+    "promise": "^8.0.2",
+    "realm": "^2.18.0"
+  }
+}
